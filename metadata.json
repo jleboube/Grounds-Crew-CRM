@@ -1,0 +1,7 @@
+{
+  "name": "GreenState CRM",
+  "description": "An AI-powered CRM for lawn care professionals featuring smart scheduling, route optimization, and weather-aware mowing recommendations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
