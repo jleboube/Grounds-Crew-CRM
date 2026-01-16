@@ -5,16 +5,14 @@
 </p>
 
 <p align="center">
-
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=fff)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
-![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=fff)
-![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?logo=googlemaps&logoColor=fff)
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=fff)
-
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff" alt="Vite"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=fff" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=fff" alt="Nginx"/>
+  <img src="https://img.shields.io/badge/Google_Maps-4285F4?logo=googlemaps&logoColor=fff" alt="Google Maps"/>
+  <img src="https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=fff" alt="Leaflet"/>
 </p>
 
 <p align="center">
@@ -51,7 +49,7 @@
 <p align="center">
   <img src="docs/screenshots/dashboard.png" alt="Dashboard" width="800"/>
   <br/>
-  <em>Dashboard with AI Weather Intelligence</em>
+  <em>Dashboard with System Overview</em>
 </p>
 
 <p align="center">
@@ -63,7 +61,13 @@
 <p align="center">
   <img src="docs/screenshots/customers.png" alt="Customer Management" width="800"/>
   <br/>
-  <em>Customer Management Interface</em>
+  <em>Customer Directory</em>
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/settings.png" alt="Settings" width="800"/>
+  <br/>
+  <em>Shop Location Settings</em>
 </p>
 
 ## Tech Stack
